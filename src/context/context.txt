@@ -1,0 +1,8 @@
+Here, useContext hook is used which helps in sending states to the inner most componenets without hassel.
+
+noteContext.js : It is made to make a context for notes, (nothing else)
+noteState.js : It holds the state for the Notes and imports the context from noteContext.js
+
+NOTE: 
+    noteContext is imported in the components where you need the state for the notes
+    noteState is imported in App.js to make available the state for the Notes to all the components

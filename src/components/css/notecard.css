@@ -1,0 +1,6 @@
+.noteDesign {
+  border-radius: 28px;
+  background: linear-gradient(145deg, #c6eaef, #a7c5c9);
+  box-shadow:  7px 7px 14px #aeced2,
+               -7px -7px 14px #c4e8ec;
+}
